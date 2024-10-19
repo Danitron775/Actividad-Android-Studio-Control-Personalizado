@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">actividadcontrolpersonalizado</string>
+    <string name="login_title">Ingreso</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Ok</string>
+    <string name="login_button_cancel">Cancelar</string>
+
+    <string name="main_button">Iniciar sesión</string>
+</resources>
